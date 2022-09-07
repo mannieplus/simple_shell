@@ -1,4 +1,4 @@
-#inclu "shell.h"
+#includ "shell.h"
 
 /**
  * _myexit - exits the shell
