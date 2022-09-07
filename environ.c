@@ -1,4 +1,4 @@
-#inclu "shell.h"
+#includ "shell.h"
 
 /**
  * _myenv - prints the current environment
