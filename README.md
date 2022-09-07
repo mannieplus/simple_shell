@@ -318,6 +318,6 @@ $
                                                                                                                               
 <h2>Authors</h2>                                                                                                              
                                                                                                                               
-👤 Akpan, Emmanuel <info.mannieplus@gmail.comm>
+👤 Akpan, Emmanuel <info.mannieplus@gmail.com>
 
-👤 ng <ngozi@gmail.com>
+👤 Ngozi, Ohagwa <ohagwajuliet6@gmail.com>
